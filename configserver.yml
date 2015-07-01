@@ -1,0 +1,4 @@
+---
+  spring:
+    profiles: cloud
+  lucky-word: Irish
